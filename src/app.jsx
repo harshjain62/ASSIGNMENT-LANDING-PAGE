@@ -1,6 +1,6 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Stats from "./components/Stats";
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
+import Stats from "./components/stats";
 
 export default function App() {
   return (
@@ -53,9 +53,3 @@ export default function App() {
     </main>
   );
 }
-<div className="background">
-  <img
-    src="/assets/Group-1000003246.webp"
-    alt=""
-  />
-</div>
